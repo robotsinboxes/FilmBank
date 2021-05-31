@@ -21,15 +21,17 @@ THEN I see a listing of streaming providers
 ---
 ## Application Images
 
+![Gif](./assets/images/filmbank.gif "App Gif")
 
-![Multiple Movie Results](./assets/images/filmbank-multiple-search-results.png "Search Results")
 
 Movie Search Results
 
+![Multiple Movie Results](./assets/images/filmbank-multiple-search-results.png "Search Results")
 
-![Single Movie Search Results](./assets/images/starwars.png "Selected Movie")
 
 Selected Movie 
+
+![Single Movie Search Results](./assets/images/starwars.png "Selected Movie")
 
 ---
 
