@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,500;1,700&display=swap" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <!-- Animate.css -->
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title></title>
+</head>
+
+<body>
+
+  <header>
+    <div class="slider">
+      <ul class="slides">
+        <li>
+          <img src="./assets/images/projector.gif" class="responsive-img" style="width:100%;"> 
+          <div class="caption">
+            <h1 class="right animate__animated animate__slideInRight">FilmBank</h1>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </header>  
+    <div id="search-wrap" class="wrapper"> 
+        <!-- child-1 -->
+        <div id="search-cont" class="container">
+              <!-- For Search Space -->
+            <form method="get" class="movie-form" action="">
+                  <!-- Define search Element -->
+                  <!-- <div class="input-field sub-row"> -->
+                <div class="input-field">
+                    <input type="text" id="addMovie" placeholder="Search by title">
+                      <!-- for movie not found (option) -->
+                    <!-- <span id="movieNotFound" class="helper-text"></span> -->
+                    
+                    <a class="btn button btn-floating btn-large waves-effect waves-light" id="searchMovies" type="submit" name="action"><i class="material-icons">search</i></a>
+                    
+                </div> <!-- Define search Element end -->
+                  <!-- New Movie Area (option) -->
+                    <div id="new movies" class="sub-row"> </div>
+                </div>
+                </div>
+            </form>
+        </div>   
+    </div>
+ 
+    <!-- Results Pop out area -->
+    <!-- Parent-2 -->
+    <div class="container">
+      <div id="movies-div" class="collection">
+          <!-- show movie information -->
+      </div>
+    </div>
+    <h4 class="container">Recommended:</h4>
+    <div class="carousel">
+        <a class="carousel-item" href="#one!"><img src="./assets/images/moviePoster1.jpeg"></a>
+        <a class="carousel-item" href="#two!"><img src="./assets/images/moviePoster2.jpeg"></a>
+        <a class="carousel-item" href="#three!"><img src="./assets/images/moviePoster3.jpeg"></a>
+        <a class="carousel-item" href="#four!"><img src="./assets/images/moviePoster4.jpeg"></a>
+        <a class="carousel-item" href="#five!"><img src="./assets/images/moviePoster5.jpeg"></a>
+        <a class="carousel-item" href="#five!"><img src="./assets/images/moviePoster6.jpeg"></a>
+    </div>
+    <span></span>
+    <br><br><br><br><br><br>
+  
+    <script
+    src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+    crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script type="text/javascript" src="./assets/js/script.js"></script>
+
+  </body>
+</html>
+
