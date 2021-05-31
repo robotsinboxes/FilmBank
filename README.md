@@ -2,6 +2,16 @@
 
 FilmBank is an application that gives a user the ability to search for movies, get a description, including plot, cast, release date, where it's streaming, and the New York Times movie review.
 
+---
+## Developers
+
+   * Joey Castillo (joeycastilloo558@gmail.com) 
+   * Lisa Goodell (robotsinboxes@gmail.com)
+   * Yihsien Lu (alecfirstapple@gmail.com)
+   * Scott Willrich (swillrich@gmail.com)
+
+---
+
 ## Link to Deployed Application
 
 https://robotsinboxes.github.io/FilmBank/
@@ -49,12 +59,4 @@ FilmBank was built using:
   * The Movie Database API (https://developers.themoviedb.org/3/getting-started/introduction)
   * The New York Times Moview Review API (https://developer.nytimes.com/docs/movie-reviews-api/1/overview)
 
----
-## Developers
 
-   * Joey Castillo (joeycastilloo558@gmail.com) 
-   * Lisa Goodell (robotsinboxes@gmail.com)
-   * Yihsien Lu (alecfirstapple@gmail.com)
-   * Scott Willrich (swillrich@gmail.com)
-
-   ---
