@@ -1,4 +1,4 @@
-# filmbank
+# FilmBank
 
 FilmBank is an application that gives a user the ability to search for movies, get a description, including plot, cast, release date, where it's streaming, and a New York Times moview review.
 
