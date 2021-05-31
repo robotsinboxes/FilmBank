@@ -4,7 +4,7 @@ FilmBank is an application that gives a user the ability to search for movies, g
 
 ## Link to Deployed Application
 
-https://swillrich5.github.io/filmbank/
+https://robotsinboxes.github.io/FilmBank/
 
 
 ---
