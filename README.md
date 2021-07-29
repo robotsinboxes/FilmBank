@@ -2,6 +2,8 @@
 
 FilmBank is an application that gives a user the ability to search for movies, get a description, including plot, cast, release date, where it's streaming, and the New York Times movie review.
 
+Future development includes allowing users to create a profile whereby they can save lists, write reviews and follow one another. 
+
 ---
 ## Developers
 
