@@ -1,0 +1,22 @@
+{
+  "name": "filmbank",
+  "version": "1.0.0",
+  "description": "FilmBank is an application that gives a user the ability to search for movies, get a description, including plot, cast, release date, where it's streaming, and a New York Times moview review.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robotsinboxes/FilmBank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robotsinboxes/FilmBank/issues"
+  },
+  "homepage": "https://github.com/robotsinboxes/FilmBank#readme",
+  "dependencies": {
+    "materialize": "^1.0.0"
+  }
+}
